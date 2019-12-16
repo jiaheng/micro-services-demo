@@ -1,0 +1,11 @@
+# Project exclude paths
+/auth/target/
+/common/target/
+/company/.gradle/
+/company/target/
+/eureka/target/
+/gallery/target/
+/image/target/
+/target/
+/user/target/
+/zuul/target/
